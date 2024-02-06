@@ -8,7 +8,7 @@ Uruchomienie strony:
 
 # Moje przemyślenia
 ### Opis
-Strona z frontend practice
+Strona z frontend practice.
 ### Do zmiany:
 - akordeon
 
